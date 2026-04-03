@@ -712,6 +712,8 @@ claude \
 
 ---
 
+> [sleep2agi](https://github.com/sleep2agi) — 专注 AI Agents 编排、群体智能、视频生成，帮助普通人跨越到 AGI。
+
 ## License
 
 MIT
