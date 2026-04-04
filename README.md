@@ -1,3 +1,5 @@
+![Claude Code Best Practices](assets/banner.png)
+
 # Claude Code 最佳实践
 
 > 经过实战验证的多 Session、多模型、多服务器 Claude Code 运维模式。
